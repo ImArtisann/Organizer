@@ -20,3 +20,5 @@ Steps to get it set up
 8.) bot should be running now go back to https://discord.com/developers/application under ouath2 url generator > bot > either give bot admin or all the stuff related to messages and reading messages
 
 9.) copy link and invite to server
+
+Video: https://www.youtube.com/watch?v=7zQuEVPcLv4
